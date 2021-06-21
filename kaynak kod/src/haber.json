@@ -1,0 +1,24 @@
+{"data":
+[      
+    {"id":"0", "baslik":"Covid 19 Haberler", 
+    "icerik":"İlk olarak Çin’in Wuhan bölgesinde, 2019 yılı Aralık ayının başında görülüp, bu bölgedeki yetkililer tarafından tanımlandığı için gayri resmi Wuhan koronavirüsü adıyla da bilinen yeni koronavirüs solunum yolu enfeksiyonuna neden olan ve insandan insana geçebilen bulaşıcı bir virüstür.", 
+    "tarih":"05 ARALIK 2020", 
+    "gorsel":"https://www.turizmgunlugu.com/wp-content/uploads/2020/03/covid-19-coronavirus-696x398.jpg", 
+    "goruntulenme":50},
+    {"id":"0", "baslik":"Covid 19 Haberleri ", 
+        "icerik":"Coronavirus nasıl yayılır:  Hastalığın damlacık yoluyla bulaştığı düşünülmektedir. Virus hasta bireylerden öksürme, hapşırma yoluyla ortaya saçılan damlacıklarla ve hastaların kontamine ettiği yüzeylerden (göz, ağız, burun mukozasına temasla) bulaşabilir.", 
+        "tarih":"04 ARALIK 2020", 
+        "gorsel":"https://telegram.org/file/464001689/3/liHcDgHAJe0.151594/9adb882d85a74bb47e", 
+        "goruntulenme":89},
+        {"id":"0", "baslik":"Covid19 Türkiye Resmi Sitesi", 
+            "icerik":"https://covid19.saglik.gov.tr/", 
+            "tarih":"03 ARALIK 2020", 
+            "gorsel":" https://i.sozcu.com.tr/wp-content/uploads/2020/05/26/iecrop/metrooo_16_9_1590498170-880x495.jpg", 
+            "goruntulenme":95},
+            {"id":"0", "baslik":"Sağlık Bakanlığı Resmi Sitesi", 
+                "icerik":"https://saglik.gov.tr/", 
+                "tarih":"19 Kasım 2020", 
+                "gorsel":"https://www.dw.com/image/52699780_401.jpg", 
+                "goruntulenme":185}                        
+]    
+}
